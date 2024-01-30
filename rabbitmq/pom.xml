@@ -7,8 +7,11 @@
         <artifactId>prototype-jms</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
+
     <artifactId>rabbitmq</artifactId>
     <name>rabbitmq</name>
-    <packaging>pom</packaging>
     <description>JMS X Rabbit MQ Example</description>
+    <dependencies>
+
+    </dependencies>
 </project>

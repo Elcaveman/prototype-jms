@@ -7,8 +7,11 @@
         <artifactId>prototype-jms</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
+
     <artifactId>ibmmq</artifactId>
     <name>ibmmq</name>
-    <packaging>pom</packaging>
     <description>JMS X IBM MQ Example</description>
+    <dependencies>
+
+    </dependencies>
 </project>

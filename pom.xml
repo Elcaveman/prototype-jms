@@ -8,11 +8,13 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>com.messaging</groupId>
 	<artifactId>prototype-jms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>prototype-jms</name>
+
 	<description>The definitive practical guide for JMS use with the most used Messaging Queues</description>
 	<modules>
 		<module>rabbitmq</module>
